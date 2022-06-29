@@ -2,7 +2,7 @@ import React from 'react'
 
 const Dailyactivities = () => {
   return (
-    <article style={{backgroundColor:'white', marginLeft:'', borderRadius:'0.5rem', zIndex:'-1', position:'absolute'}}>
+    <article className='daily-activity'>
         <h2 style={{padding:'15px 15px', fontSize:'x-large', fontFamily:'MS Sans Serif, Geneva, sans-serif'}}>Daily activities</h2>
 
         <section style={{display:'flex', alignItems:'baseline', padding:'10px 4px'}}>

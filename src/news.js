@@ -17,7 +17,7 @@ const News = () => {
     }
 
   return (
-    <section style={{marginTop:'16%', display:'flex', alignItems:'center', backgroundColor:'#f8f8fe', padding:'30px 60px', marginLeft:'190px', marginRight:'200px'}}>
+    <section className='news-con'>
         <article className='news-text'>
             <h3>OUR NEWSLETTER</h3>
             <h1>Stay Updated with our weekly newsletter</h1>

@@ -1,9 +1,10 @@
 import React from 'react'
 import './index.css'
+import './mediaquery.css'
 
 const Earnings = () => {
   return (
-    <section style={{backgroundColor:'#f8f8fe', padding:'4%', marginRight:'30%'}}>
+    <section className='earning-con'>
        <article className='container'>
            <div className='item'>
                <img src="./icon1.svg"/>

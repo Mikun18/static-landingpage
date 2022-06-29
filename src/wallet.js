@@ -2,8 +2,8 @@ import React from 'react'
 
 const Wallet = () => {
   return (
-    <section style={{backgroundColor:'#f8f8fe', padding:'0px 2%', marginRight:'20%'}}>
-        <h2 style={{padding:'5%', fontSize:'large', letterSpacing:'0.1rem'}}>My Wallets</h2>
+    <section className='wallet'>
+        <h2>My Wallets</h2>
 
         <article className='crypt'>
           <div className='btc'>

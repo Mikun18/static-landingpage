@@ -5,7 +5,7 @@ const Revenue = () => {
   return (
     <section className='revenue'>
         <div className='rev-head'>
-            <p></p>
+            <span></span>
             <h3>Revenue</h3>
         </div>
 
